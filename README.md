@@ -12,4 +12,4 @@ This repository contains the source code for a simple operating system implement
 ## Getting Started
 1. **Clone the Repository**: Use the following command to clone the repository:
    ```sh
-   git clone https://github.com/yourusername/os-codes.git
+   git clone https://github.com/SupravoCoder/os-codes.git
